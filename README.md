@@ -12,6 +12,10 @@
 
 # Fine-mapping with FOCUS
 
+*TODO:
+  *Detail data cleaning step
+  *Add section for hiccups
+
 1. Install FOCUS from https://github.com/bogdanlab/focus
 2. Download the GTEx v8 Brain Cortex tissue data from https://alkesgroup.broadinstitute.org/FUSION/WGT/
 3. If you haven't already, download the LD Scores from 1000 Genomes Project (as in TWAS)
