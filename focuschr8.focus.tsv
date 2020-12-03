@@ -1,3 +1,0 @@
-ens_gene_id	ens_tx_id	mol_name	tissue	ref_name	type	chrom	tx_start	tx_stop	inference	cv.R2	cv.R2.pval	twas_z	pip	in_cred_set	region
-FAM86B3P	NA	FAM86B3P	brain_cortex	brain_cortex	NA	8	8086117	8097552	enet	0.07140937994283025	0.005102340338483937	8.61	1	0	8:7153384-8:9154694
-NULL.MODEL	NA	NULL	NA	NA	NULL	8	NA	NA	NA	NA	NA	0	1.31e-12	0	8:7153384-8:9154694
