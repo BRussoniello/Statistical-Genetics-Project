@@ -1,6 +1,9 @@
 # Statistical-Genetics-Project
 
 # Prerequisistes
+*_TODO_*
+ * Detail data cleaning step.
+ 
 0. Install Python 3.7+ : https://www.python.org/downloads/, install R and R studio: https://cran.r-project.org/mirrors.html, install Anaconda (optional): https://anaconda.org/
 1. Download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST007709
 2. For the validation step, download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST005327
@@ -12,9 +15,9 @@
 
 # Fine-mapping with FOCUS
 
-*TODO:
-  *Detail data cleaning step
-  *Add section for hiccups
+* __TODO__:
+ * Detail data cleaning step
+ * Add section for hiccups
 
 1. Install FOCUS from https://github.com/bogdanlab/focus
 2. Download the GTEx v8 Brain Cortex tissue data from https://alkesgroup.broadinstitute.org/FUSION/WGT/
