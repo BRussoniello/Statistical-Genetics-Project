@@ -102,8 +102,6 @@ The plot can be seen in the TWAS output.  If we did not include the --sig_z opti
 
 # Fine-mapping with FOCUS
 
-* __TODO__:
- * Add section for hiccups
 
 1. Install FOCUS from https://github.com/bogdanlab/focus
 2. Download the GTEx v8 Brain Cortex tissue data from https://alkesgroup.broadinstitute.org/FUSION/WGT/
