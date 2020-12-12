@@ -1,8 +1,6 @@
 # Statistical-Genetics-Project
 
 # Prerequisistes
-*_TODO_*
- * Detail data cleaning step.
  
 0. Install Python 3.7+ : https://www.python.org/downloads/, install R and R studio: https://cran.r-project.org/mirrors.html, install Anaconda (optional): https://anaconda.org/
 1. Download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST007709
