@@ -1,1 +1,25 @@
-dsdd
+
+
+
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.1 gtex_v8.db --chr 1 --tissue brain_cortex --out focuschr1
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.2 gtex_v8.db --chr 2 --tissue brain_cortex --out focuschr2
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.3 gtex_v8.db --chr 3 --tissue brain_cortex --out focuschr3
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.4 gtex_v8.db --chr 4 --tissue brain_cortex --out focuschr4
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.5 gtex_v8.db --chr 5 --tissue brain_cortex --out focuschr5
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.6 gtex_v8.db --chr 6 --tissue brain_cortex --out focuschr6
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.7 gtex_v8.db --chr 7 --tissue brain_cortex --out focuschr7
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.8 gtex_v8.db --chr 8 --tissue brain_cortex --out focuschr8
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.9 gtex_v8.db --chr 9 --tissue brain_cortex --out focuschr9
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.10 gtex_v8.db --chr 10 --tissue brain_cortex --out focuschr10
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.11 gtex_v8.db --chr 11 --tissue brain_cortex --out focuschr11
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.12 gtex_v8.db --chr 12 --tissue brain_cortex --out focuschr12
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.13 gtex_v8.db --chr 13 --tissue brain_cortex --out focuschr13
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.14 gtex_v8.db --chr 14 --tissue brain_cortex --out focuschr14
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.15 gtex_v8.db --chr 15 --tissue brain_cortex --out focuschr15
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.16 gtex_v8.db --chr 16 --tissue brain_cortex --out focuschr16
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.17 gtex_v8.db --chr 17 --tissue brain_cortex --out focuschr17
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.18 gtex_v8.db --chr 18 --tissue brain_cortex --out focuschr18
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.19 gtex_v8.db --chr 19 --tissue brain_cortex --out focuschr19
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.20 gtex_v8.db --chr 20 --tissue brain_cortex --out focuschr20
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.4 gtex_v8.db --chr 21 --tissue brain_cortex --out focuschr21
+focus finemap FOCUS.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.4 gtex_v8.db --chr 22 --tissue brain_cortex --out focuschr22
