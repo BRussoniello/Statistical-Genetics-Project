@@ -1,0 +1,3 @@
+ens_gene_id	ens_tx_id	mol_name	tissue	ref_name	type	chrom	tx_start	tx_stop	inference	cv.R2	cv.R2.pval	twas_z	pip	in_cred_set	region
+NULL.MODEL	NA	NULL	NA	NA	NULL	13	NA	NA	NA	NA	NA	0	1	0	13:98938919-13:100574095
+DOCK9-AS2	NA	DOCK9-AS2	brain_cortex	brain_cortex	NA	13	99740073	99740879	lasso	0.04518782244501374	0.021736126523004377	0.793	0.000212	0	13:98938919-13:100574095

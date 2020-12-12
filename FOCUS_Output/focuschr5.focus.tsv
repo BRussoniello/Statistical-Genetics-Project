@@ -1,0 +1,3 @@
+ens_gene_id	ens_tx_id	mol_name	tissue	ref_name	type	chrom	tx_start	tx_stop	inference	cv.R2	cv.R2.pval	twas_z	pip	in_cred_set	region
+NULL.MODEL	NA	NULL	NA	NA	NULL	5	NA	NA	NA	NA	NA	0	0.544	1	5:87390784-5:88891530
+TMEM161B-AS1	NA	TMEM161B-AS1	brain_cortex	brain_cortex	NA	5	87564712	87732502	lasso	0.2976362666769131	6.5101360117882e-09	4.2	0.456	0	5:87390784-5:88891530
