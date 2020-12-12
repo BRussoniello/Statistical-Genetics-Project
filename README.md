@@ -8,7 +8,7 @@
 
 # FUSION
 1. Clean the data with the munge_sumstats.py utility as part of the LD Score Regression Utility by Bulik et al. found at https://github.com/bulik/ldsc
-(Note: You will have to add the following line to line after line 71 in munge_sumstats.py: ___'NONEFFECT_ALLELE': 'A2',___ 
+(Note: You will have to add the following line to line after line 71 in munge_sumstats.py in order for the data to be read in correctly: ___'NONEFFECT_ALLELE': 'A2',___ 
 2. The formatted raw data will be left with several blank lines, will cause an error when trying to run the data through FUSION. Remove the blank lines using either R or Python.
 
 
