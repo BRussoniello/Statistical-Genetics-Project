@@ -9,7 +9,8 @@
 2. For the validation step, download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST005327
 
 # FUSION
-1. Clean the data with the munge_sumstats.py utility
+1. Clean the data with the munge_sumstats.py utility as part of the LD Score Regression Utility by Bulik et al. found at https://github.com/bulik/ldsc
+2. The formatted raw data will be left with several blank lines, will cause an error when trying to run the data through FUSION. Remove the blank lines using either R or Python.
 
 
 # Fine-mapping with FOCUS
