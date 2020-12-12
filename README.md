@@ -5,16 +5,12 @@
 0. Install Python 3.7+ : https://www.python.org/downloads/, install R and R studio: https://cran.r-project.org/mirrors.html, install Anaconda (optional): https://anaconda.org/
 1. Download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST007709
 2. For the validation step, download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST005327
-
-# FUSION
-1. Clean the data with the munge_sumstats.py utility as part of the LD Score Regression Utility by Bulik et al. found at https://github.com/bulik/ldsc
+3. Clean the data with the munge_sumstats.py utility as part of the LD Score Regression Utility by Bulik et al. found at https://github.com/bulik/ldsc
 (Note: You will have to add the following line to line after line 71 in munge_sumstats.py in order for the data to be read in correctly: ___'NONEFFECT_ALLELE': 'A2',___ 
-2. The formatted raw data will be left with several blank lines, will cause an error when trying to run the data through FUSION. Remove the blank lines using either R or Python.
+4. The formatted raw data will be left with several blank lines, will cause an error when trying to run the data through FUSION. Remove the blank lines using either R or Python.
 
-2. For the validation step, download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST005327
-3. 
+5. For the validation step, download the GWAS summary statistics here: https://www.ebi.ac.uk/gwas/studies/GCST005327
 
-# FUSION
 # TWAS
 
 For TWAS/FUSION, we follow the method outlined here: <http://gusevlab.org/projects/fusion/>.  
