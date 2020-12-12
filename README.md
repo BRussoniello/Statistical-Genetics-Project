@@ -25,3 +25,4 @@
 7. Now, to conduct fine-mapping at chromosome n, run the following command:
 "focus finemap neuro.sumstats.gz 1000G_EUR_Phase3_plink/1000G.EUR.QC.[n] focus.db --chr [n] --tissue brain_cortex --out [OUTPUT]". [n] should be replaced with the number of your chromosome, and [OUTPUT] should be replaced with what you wish to call your output file. All output files are in .tsv, which can be opened in Excel or other spreadsheet software for viewing.
 
+All FOCUS commands to produce the output for our project is stored in FOCUS_Output/FOCUS_Command_Line.txt
